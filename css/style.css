@@ -1,0 +1,56 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	background:url(../img/ha.jpg);
+
+}
+
+.reg-form{
+	width: 100%;
+	float: left;
+
+}
+
+.one{
+	width: 50%;
+	float: left;
+
+}
+.one h2{
+
+}
+.one p{
+
+}
+.btn{
+
+}
+.two{
+
+}
+.two h2{
+
+}
+
+.two p{
+
+}
+form{
+
+}
+.form-control{
+
+}
+.btn-two{
+
+}
+
+
